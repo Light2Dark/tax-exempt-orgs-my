@@ -1,2 +1,2 @@
-reference_num,organization,address,category,start_date,end_date,status,remarks
-6,FULL GOSPEL TABERNACLE BHD,WISMA EAGLES5 JALAN TP 4TMN PERINDUSTRIAN UEP 47620 SUBANG JAYA SELANGOR,Worship,2022-08-01,2027-07-31,approved,
+reference_num,organization,address,classification,start_date,end_date,status,remarks,category
+6,FULL GOSPEL TABERNACLE BHD,WISMA EAGLES5 JALAN TP 4TMN PERINDUSTRIAN UEP 47620 SUBANG JAYA SELANGOR,WORSHIP,2022-08-01,2027-07-31,approved,,Religious Organizations
